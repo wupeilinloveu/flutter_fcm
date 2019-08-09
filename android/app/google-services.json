@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "135308409531",
+    "firebase_url": "https://credit-angel-android-app.firebaseio.com",
+    "project_id": "flutter-fcm-android-app",
+    "storage_bucket": "flutter-fcm-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135308409531:android:18696e847188f67f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135308409531-5k2dmekae79s1fjve4qcae7bohii1jcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzeCCOgsOv70Pirjfx6HB4xtcOWnL7rOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135308409531-5k2dmekae79s1fjve4qcae7bohii1jcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135308409531:android:47e2cd73d9302657",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135308409531-5k2dmekae79s1fjve4qcae7bohii1jcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzeCCOgsOv70Pirjfx6HB4xtcOWnL7rOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135308409531-5k2dmekae79s1fjve4qcae7bohii1jcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
